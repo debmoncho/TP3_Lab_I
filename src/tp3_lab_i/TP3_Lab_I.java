@@ -16,6 +16,7 @@ public class TP3_Lab_I {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Odaaaa");
+        System.out.println("Mensaje de Prueba");
     }
     
 }
