@@ -140,7 +140,7 @@ public class TPN3_Login extends javax.swing.JFrame {
         // TODO add your handling code here:
         String mail = jtmail.getText();
         String pass = jpaswar.getText();
-        if (mail.equals("admin") && pass.equals("123")) {
+        if (mail.equals("alumno@ulp.edu.ar") && pass.equals("12345678")) {
             JOptionPane.showMessageDialog(this, "Bienvenido");
         } else {
             JOptionPane.showMessageDialog(this, "Usuario o Contreseña incorrecto");
