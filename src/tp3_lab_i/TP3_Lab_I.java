@@ -14,7 +14,7 @@ public class TP3_Lab_I {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Msj prueba ");
+        System.out.println("Msj prueba con neatbeans");
     }
     
 }
