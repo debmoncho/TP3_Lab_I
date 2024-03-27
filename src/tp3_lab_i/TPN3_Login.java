@@ -141,7 +141,7 @@ public class TPN3_Login extends javax.swing.JFrame {
         String mail = jtmail.getText();
         String pass = jpaswar.getText();
         if (mail.equals("admin") && pass.equals("123")) {
-            JOptionPane.showMessageDialog(this, "Bienvenido chamaco");
+            JOptionPane.showMessageDialog(this, "Bienvenido");
         } else {
             JOptionPane.showMessageDialog(this, "Usuario o Contreseña incorrecto");
         }
